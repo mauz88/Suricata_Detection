@@ -55,11 +55,15 @@ This triggered alerts in Suricata, captured in both fast.log and eve.json.
 
 Collected files for the portfolio:
 
-fast log sample (alerts)
+Suricata configuration (yaml file)
 
-eve.json sample (structured logs)
+fast log (alerts)
+
+eve.json (structured logs)
 
 nmap scan sample (attack simulation)
+
+screenshots as well attached.
 
 5. Conclusion
 
@@ -68,5 +72,6 @@ This project demonstrates the ability to:
 Configure Suricata IDS
 
 Run and test rules
+
 
 Capture and analyze alerts from network attacks
